@@ -1,5 +1,115 @@
 {
   "translation": {
-    "name": "Andrés"
+    "aboutPerson": {
+      "name": "Douglas Ramírez",
+      "profession": "Ingeniero de Sistemas",
+      "location": "Bucaramanga, Colombia",
+      "bornDate": "22-01-1999"
+    },
+    "contactInfo": {
+      "title": "Contacto",
+      "tels": [
+        "3184301032"
+      ],
+      "emails": [
+        "ra.douglas@hotmail.com",
+        "contacto@nuwebs.com.co"
+      ]
+    },
+    "knowledgeInfo": {
+      "title": "Conocimientos",
+      "knowledges": [
+        "VueJS",
+        "React",
+        "Laravel",
+        "NodeJs"
+      ]
+    },
+    "skillsInfo": {
+      "title": "Habilidades",
+      "skills": [
+        "Liderazgo",
+        "Espíritu emprendedor",
+        "Capacidad de asesoramiento",
+        "Redacción"
+      ]
+    },
+    "langsInfo": {
+      "title": "Idiomas",
+      "langs": [
+        "Español",
+        "Inglés (85%)"
+      ]
+    },
+    "content": {
+      "aboutMe": {
+        "title": "Sobre mi",
+        "text": "Ingeniero de sistemas graduado de la Universidad Industrial de Santander (UIS), con más de 3 años de experiencia.<br/>Me especializo en el framework Laravel, desarrollando y desplegando backends para sistemas de información y software web centralizado.<br/>Poseo experiencia en el framework VueJs y React para el desarrollo de frontend.<br/>Domino los siguientes lenguajes de programación: PHP, Javascript, Python, C#, Java, entre otros.<br/>Poseo experiencia diseñando y utilizando bases de datos SQL y NoSQL.<br/>Soy el dueño de una empresa de desarrollo de software web llamada Nuwebs. Anteriormente me dedicaba a ser desarrollador web fullstack de forma independiente.<br/>Tengo conocimientos de seguridad informática medios-altos.<br/>Poseo conocimientos técnicos en reparación de computadoras tanto de software o de hardware.<br/>Hablo español e inglés."
+      },
+      "education": {
+        "title": "Formación académica",
+        "education": [
+          "Ingeniería de Sistemas - Universidad Industrial de Santander (2015 - 2020)",
+          "SAP ERP - Universidad Industrial de Santander (2018-2019)",
+          "Itinerario emprendimiento actívate - Google Actívate (2017 - 2018)",
+          "Networking basics | Packet Tracer - Cisco NetAcad (2017 - 2018)",
+          "Auxiliar contable y administrador de empresas - Gimnasio Superior (2008 - 2014)"
+        ]
+      },
+      "experience": {
+        "title": "Experiencia laboral",
+        "experience": [
+          {
+            "job": "Monitor académico de Misión TIC 2022",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Enero 2022 - Noviembre 2022",
+            "resume": "asda"
+          },
+          {
+            "job": "Asesor de sistemas de información",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Junio 2021 - Noviembre 2021",
+            "resume": "asda"
+          },
+          {
+            "job": "Formador TIC en lenguages de programación",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Marzo 2021 - Agosto 2021",
+            "resume": "asda"
+          },
+          {
+            "job": "Líder de desarrollo web fullstack",
+            "business": "Nuwebs",
+            "location": "Bucaramanga, Colombia",
+            "date": "Enero 2021 - Actualidad",
+            "resume": "asda"
+          },
+          {
+            "job": "Ingeniero de datos",
+            "business": "Escuela de Ingeniería de Sistemas - UIS",
+            "location": "Bucaramanga, Colombia",
+            "date": "Junio 2019 - Agosto 2019",
+            "resume": "asda"
+          },
+          {
+            "job": "Soporte técnico",
+            "business": "Geomática - UIS",
+            "location": "Bucaramanga, Colombia",
+            "date": "Abril 2018 - Noviembre 2019",
+            "resume": "asda"
+          },
+          {
+            "job": "Desarrollador y líder de seguridad informática",
+            "business": "JDWEP",
+            "location": "Bucaramanga, Colombia",
+            "date": "Octubre 2017 - Octubre 2019",
+            "resume": "asda"
+          }
+        ]
+      }
+    }
   }  
 }
