@@ -6,7 +6,7 @@ interface Props {
 export default function ContactInfo({ title, phones, emails }: Props) {
   return (
     <section className="mb-3">
-      <div className="row text-info h3">
+      <div className="row text-info h4">
         <div className="col-2"><i className="fa-solid fa-address-card"></i></div>
         <div className="col-10">{title}</div>
       </div>

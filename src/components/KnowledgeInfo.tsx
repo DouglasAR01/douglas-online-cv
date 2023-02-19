@@ -17,7 +17,7 @@ function KnowledgeInfo({ title, icon, knowledges }: Props) {
   };
   return (
     <section className="mb-3">
-      <div className="row text-info h3">
+      <div className="row text-info h4">
         <div className="col-2">
           <i className={icon}></i>
         </div>
