@@ -8,7 +8,7 @@ export default function ProfilePicture({ image }: Props) {
     border: "2px solid #1faed1",
   };
   return (
-    <div className="m-4 text-center">
+    <div className="m-4 mb-2 text-center">
       <img
         src={image}
         alt="Profile picture"
