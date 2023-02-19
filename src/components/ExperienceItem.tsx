@@ -32,7 +32,7 @@ export default function ExperienceItem({
       </div>
 
       <div className="row text-center mb-2">
-        <div className="col-4">{business}</div>
+        <div className="col-4 text-start">{business}</div>
         <div className="col-4">{location}</div>
         <div className="col-4 fst-italic">{date}</div>
       </div>
