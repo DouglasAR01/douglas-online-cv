@@ -1,4 +1,6 @@
 {
+  "name": "Español",
+  "flag": "https://www.worldometers.info/img/flags/small/tn_mx-flag.gif",
   "translation": {
     "aboutPerson": {
       "name": "Douglas Ramírez",

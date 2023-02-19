@@ -4,19 +4,24 @@ import { initReactI18next } from "react-i18next";
 import English from "../langs/en.json";
 import Spanish from "../langs/es.json";
 
-const resources = {
+const resources: any = {
   en: English,
-  es: Spanish
+  es: Spanish,
 };
 
-const DEFAULT_LANG: string = "en"
-const locale: string = navigator.language.split("-")[0]
+const DEFAULT_LANG: string = "en";
+const locale: string = navigator.language.split("-")[0];
 
-let lang: string = locale in resources ? locale : DEFAULT_LANG
+export const availableLangs: { [key: string]: string } = {};
+for (const langKey in resources) {
+  availableLangs[langKey] = resources[langKey]["flag"];
+}
+
+let lang: string = locale in availableLangs ? locale : DEFAULT_LANG;
 
 i18n.use(initReactI18next).init({
   resources,
-  lng: lang
-})
+  lng: lang,
+});
 
 export default i18n;

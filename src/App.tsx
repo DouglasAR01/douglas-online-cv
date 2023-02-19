@@ -10,6 +10,7 @@ import KnowledgeInfo from "./components/KnowledgeInfo";
 import TheTitle from "./components/TheTitle";
 import SectionParagraph from "./components/SectionParagraph";
 import ExperienceItem from "./components/ExperienceItem";
+import LangSwitcher from "./components/LangSwitcher";
 
 function App() {
   const { t, i18n } = useTranslation();
@@ -23,10 +24,11 @@ function App() {
       <div className="container-fluid">
         <div className="row">
           <div
-            className="col-sm-3 bg-dark fixed-top text-light px-4"
+            className="col-md-4 col-lg-3 bg-dark fixed-top text-light px-4"
             style={leftBar}
           >
             <ProfilePicture image={require("./assets/douglas.jpg")} />
+            <LangSwitcher/>
             <PersonalInfo
               location={t("aboutPerson.location")}
               bornDate={t("aboutPerson.bornDate")}
@@ -54,7 +56,7 @@ function App() {
               knowledges={t("langsInfo.langs", { returnObjects: true })}
             />
           </div>
-          <div className="offset-3 col-sm-9 p-1 p-sm-4">
+          <div className="offset-md-4 col-md-8 offset-lg-3 col-md-9 p-1 p-sm-4">
             <div className="container">
               <TheTitle
                 title={t("aboutPerson.name")}
