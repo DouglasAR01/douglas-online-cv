@@ -64,49 +64,49 @@
             "business": "Universidad Industrial de Santander",
             "location": "Bucaramanga, Colombia",
             "date": "Enero 2022 - Noviembre 2022",
-            "resume": "asda"
+            "resume": "Realizaba labores de supervisión y gestión de múltiples personas interdisciplinarias que desempeñaban roles variados tales como la formación académica, el seguimiento a estudiantes, administrativos, entre otros. Esto, con el fin de impulsar el programa del Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia llamado 'Misión TIC 2022', en la Universidad Industrial de Santander.<br/>Adicionalmente, realizaba desarrollo y mantenimiento de software para la optimización y automatización de procesos administrativos. Por ejemplo, la generación de informes estadísticos implementando analítica de datos o la automatización de reportes frecuentes a través de tuberías de datos."
           },
           {
             "job": "Asesor de sistemas de información",
             "business": "Universidad Industrial de Santander",
             "location": "Bucaramanga, Colombia",
             "date": "Junio 2021 - Noviembre 2021",
-            "resume": "asda"
+            "resume": "Me encargaba de gestionar el repositorio de información centralizado en la nube utilizado por el grupo de investigación Geomática, para el convenio 'uis ecp 3023616'. Entre las responsabilidades, destacan el aseguramiento y entrega de la información del sistema, monitoreo constante sobre el control de accesos y revisión de la integridad de la información."
           },
           {
             "job": "Formador TIC en lenguages de programación",
             "business": "Universidad Industrial de Santander",
             "location": "Bucaramanga, Colombia",
             "date": "Marzo 2021 - Agosto 2021",
-            "resume": "asda"
+            "resume": "Realicé labores de docencia para la iniciativa 'Misión TIC 2022' propuesta por el ministerio de tecnologías y comunicaciones (MinTIC) de Colombia, a través de la Universidad Industrial de Santander (UIS).<br/>Las clases se realizaban mediante el concepto de 'presencialidad remota', es decir, a través de un aula de clases virtual y una plataforma de comunicación VoIP, específicamente, Zoom, de forma sincrónica.<br/>Las labores consistieron en la enseñanza de los lenguajes de programación Python, con el enfoque en fundamentos de programación básica, y Java, dirigido al entendimiento del paradigma de programación orientada a objetos. Ambos lenguajes de programación se dictaron siguiendo el plan de contenidos por sesiones aprobado por el MinTIC."
           },
           {
             "job": "Líder de desarrollo web fullstack",
             "business": "Nuwebs",
             "location": "Bucaramanga, Colombia",
             "date": "Enero 2021 - Actualidad",
-            "resume": "asda"
+            "resume": "Soy el dueño de la empresa.<br/>Mis responsabilidades consisten en el manejo del área administrativa de la empresa y de ser el líder de desarrollo.<br/>Me encargo de supervisar el diseño de UX (User eXperience) dado por diseñadores industriales o diseñadores gráficos que posteriormente son desarrollados como SPA, en el framework VueJS (Javascript).<br/>Me encargo de desarrollar y supervisar el backend, desarrollado en el framework Laravel (PHP), de los diferentes proyectos en desarrollo."
           },
           {
             "job": "Ingeniero de datos",
             "business": "Escuela de Ingeniería de Sistemas - UIS",
             "location": "Bucaramanga, Colombia",
             "date": "Junio 2019 - Agosto 2019",
-            "resume": "asda"
+            "resume": "Para la escuela de ingeniería de sistemas e informática de la universidad Industrial de Santander (UIS) trabajé como auxiliar de ingeniería en el desarrollo de un prototipo de análisis de sentimientos de textos en inglés a partir de un dataset de twits en inglés.<br/>El equipo de desarrollo se componía de 3 personas, incluyéndome. Logramos realizar un modelo de inteligencia artificial basado en Machine Learning que, a partir de un texto de entrada, regrese un valor de cero (0) a diez (10) puntos, que determinan el sentimiento manifestado en el texto, donde cero es totalmente triste y/o deprimente/depresivo y diez es totalmente feliz y/o alegre, además de clasificar el contexto completo del texto como positivo o negativo.<br/>El desarrollo del prototipo tomó dos meses y medio.<br/>Mi rol consistía en asesorar y programar la parte de Machile Learning en Python."
           },
           {
             "job": "Soporte técnico",
             "business": "Geomática - UIS",
             "location": "Bucaramanga, Colombia",
             "date": "Abril 2018 - Noviembre 2019",
-            "resume": "asda"
+            "resume": "En el grupo de investigación y extensión Geomática de la Universidad Industrial de Santander, desempeñaba el rol de coordinador de salas de informática y de soporte técnico.<br/>Mis responsabilidades consistían en administrar las salas de informática del grupo de investigación, es decir, estar pendiente del buen uso de ellas, del estado de los equipos de cómputo, de los horarios de uso y de las personas que ingresan. También, me encargaba de solucionar los problemas tanto de hardware como de software de equipos de cómputo que presentaran fallas, solucionar problemas de red o conectividad y, adicionalmente, brindaba soporte técnico a los ingenieros civiles que trabajan para el grupo de investigación, por ejemplo, realizando la instalación del software para análisis estructural."
           },
           {
             "job": "Desarrollador y líder de seguridad informática",
             "business": "JDWEP",
             "location": "Bucaramanga, Colombia",
             "date": "Octubre 2017 - Octubre 2019",
-            "resume": "asda"
+            "resume": "Me encargaba de liderar el desarrollo de las áreas de los sistemas de información cuya integridad esté fuertemente ligada a la seguridad informática.<br/>Me encargaba de crear nuevas tecnologías a modo de facilitar el desarrollo de posteriores soluciones, por ejemplo, desarrollando APIs, clases o módulos reutilizables.<br/>Me encargaba de revisar y testear los protocolos de seguridad informática necesarios para el desarrollo de un sistema de información fiable a nivel general.<br/>Trabajaba con Laravel, framework de desarrollo para PHP, utilizando el patrón de diseño de software MVC.<br/>Mi área de trabajo era en el backend, trabajando, desarrollando y supervisando el software que interactuaba directamente con los modelos y controladores."
           }
         ]
       }

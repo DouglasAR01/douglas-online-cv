@@ -1,5 +1,115 @@
 {
   "translation": {
-    "name": "Douglas"
+    "aboutPerson": {
+      "name": "Douglas Ramírez",
+      "profession": "Software Engineer",
+      "location": "Bucaramanga, Colombia",
+      "bornDate": "22-01-1999"
+    },
+    "contactInfo": {
+      "title": "Contact",
+      "tels": [
+        "3184301032"
+      ],
+      "emails": [
+        "ra.douglas@hotmail.com",
+        "contacto@nuwebs.com.co"
+      ]
+    },
+    "knowledgeInfo": {
+      "title": "Knowledge",
+      "knowledges": [
+        "VueJS",
+        "React",
+        "Laravel",
+        "NodeJs"
+      ]
+    },
+    "skillsInfo": {
+      "title": "Skills",
+      "skills": [
+        "Leadership",
+        "Entrepreneurial spirit",
+        "Advisory skills",
+        "Writing"
+      ]
+    },
+    "langsInfo": {
+      "title": "Languages",
+      "langs": [
+        "Spanish",
+        "English (85%)"
+      ]
+    },
+    "content": {
+      "aboutMe": {
+        "title": "About me",
+        "text": "I am a software engineer graduated from the Universidad Industrial de Santander (UIS). Currently I have more than 3 years of experience.<br/>My main developing tool is Laravel framework, which I use to develop and deploy powerful backends for information systems and centralized web software.<br/>I have experience in VueJS and React frameworks, for frontend development. <br/>I'm proficient in the following programming languages: PHP, Javascript, Python, C#, Java, among others.<br/>I have experience designing and using SQL and NoSQL databases. <br/>I'm the owner of a web software development business called Nuwebs."
+      },
+      "education": {
+        "title": "Academic background",
+        "education": [
+          "Software Engineer - Universidad Industrial de Santander (2015 - 2020)",
+          "SAP ERP - Universidad Industrial de Santander (2018-2019)",
+          "Actívate entrepreneurship itinerary - Google Actívate (2017 - 2018)",
+          "Networking basics | Packet Tracer - Cisco NetAcad (2017 - 2018)",
+          "Accounting assistant and business administrator - Gimnasio Superior (2008 - 2014)"
+        ]
+      },
+      "experience": {
+        "title": "Work experience",
+        "experience": [
+          {
+            "job": "Academic Supervisor Misión TIC 2022",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Jan 2022 - Nov 2022",
+            "resume": "I was in charge of the supervision and management of multiple interdisciplinary people who played various roles such as teaching, management, monitoring, among others. This, in order to promote the program of the Ministry of Information Technology and Communications of Colombia called 'Misión TIC 2022) at Universidad Industrial de Santander.<br/>Additionally, I developed and maintained software for the optimization and automation of administrative processes. For example, the generation of statistical reports implementing data analytics or the automation of frequent reports through data pipelines."
+          },
+          {
+            "job": "IS Consultant",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Jun 2021 - Nov 2021",
+            "resume": "I was in charge of managing the centralized information repository in the cloud used by the Geomatics research group, for the agreement 'uis ecp 3023616'. Among the responsibilities, the following stand out: the assurance and delivery of the system information, constant monitoring on access control and review of the integrity of the information."
+          },
+          {
+            "job": "Programming languages teacher",
+            "business": "Universidad Industrial de Santander",
+            "location": "Bucaramanga, Colombia",
+            "date": "Mar 2021 - Aug 2021",
+            "resume": "I did teaching work for the initiative 'Misión TIC 2022' proposed by the Ministry of Technologies and Communications (MinTIC) of Colombia, through the Universidad Industrial de Santander (UIS).<br/>The classes were carried out using the concept of 'remote presence', that is, through a virtual classroom and a VoIP communication platform, specifically Zoom, synchronously.<br/>The tasks consisted of teaching the Python programming language, with the focus in basic programming fundamentals, and Java, aimed at understanding the object-oriented programming paradigm. Both programming languages were taught following the content plan by sessions approved by the MinTIC."
+          },
+          {
+            "job": "Fullstack Software Engineer",
+            "business": "Nuwebs",
+            "location": "Bucaramanga, Colombia",
+            "date": "Jan 2021 - Current",
+            "resume": "I am the owner of the company.<br/>My responsibilities consist of managing the administrative area of the company and being the development leader.<br/>I am in charge of supervising the UX (User eXperience) design given by designers which, later, are developed as SPA, in the VueJS (Javascript) framework.<br/>I am in charge of developing and supervising the backend, developed in the Laravel (PHP) framework, of the different projects under development."
+          },
+          {
+            "job": "Data Engineer",
+            "business": "School of Systems Engineering - UIS",
+            "location": "Bucaramanga, Colombia",
+            "date": "Jun 2019 - Aug 2019",
+            "resume": "For the School of Systems Engineering and Computer Science of the Universidad Industrial de Santander (UIS) I worked as an engineering assistant in the development of a prototype for the analysis of text sentiments from a dataset of tweets in English.<br/>The Development team consisted of 3 people, including me. We managed to make an artificial intelligence model based on Machine Learning that, from an input text, returns a value from zero (0) to ten (10) points, which determine the sentiment expressed in the text, where zero is totally sad. and/or depressing/depressive and ten is totally happy and/or joyful, in addition to classifying the entire context of the text as positive or negative.<br/>The development of the prototype took two and a half months.<br/>My role consisted of in advising and programming the part of Machine Learning in Python."
+          },
+          {
+            "job": "Technical Support",
+            "business": "Geomática - UIS",
+            "location": "Bucaramanga, Colombia",
+            "date": "Abr 2018 - Nov 2019",
+            "resume": "In the Geomatics research and extension group of the Universidad Industrial de Santander, I performed the role of coordinator of computer rooms and technical support.<br/>My responsibilities consisted of managing the computer rooms of the research group, that is, be aware of the proper use of them, the state of the computer equipment, the hours of use and the people who enter. Also, I was in charge of solving both hardware and software problems of computer equipment that presented failures, solving network or connectivity problems and, additionally, providing technical support to the civil engineers who work for the research group, for example, performing the installation of the software for structural analysis."
+          },
+          {
+            "job": "Developer and IT security leader",
+            "business": "JDWEP",
+            "location": "Bucaramanga, Colombia",
+            "date": "Oct 2017 - Oct 2019",
+            "resume": "I was in charge of leading the development of the areas of information systems whose integrity is strongly linked to information security.<br/>I was in charge of creating new technologies in order to facilitate the development of subsequent solutions, for example, developing APIs, reusable classes or modules.<br/>I was in charge of reviewing and testing the computer security protocols necessary for the development of a reliable information system at a general level.<br/>I worked with Laravel, a development framework for PHP, using the MVC software design pattern.<br/>My area of work was in the backend, working, developing and supervising the software that interacted directly with the models and controllers."
+          }
+        ]
+      }
+    }
   }  
 }
