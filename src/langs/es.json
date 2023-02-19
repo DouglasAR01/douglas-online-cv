@@ -2,6 +2,7 @@
   "name": "Español",
   "flag": "https://www.worldometers.info/img/flags/small/tn_mx-flag.gif",
   "translation": {
+    "generalInfo": "Información general",
     "aboutPerson": {
       "name": "Douglas Ramírez",
       "profession": "Ingeniero de Sistemas",

@@ -2,6 +2,7 @@
   "name": "English",
   "flag": "https://www.worldometers.info/img/flags/small/tn_uk-flag.gif",
   "translation": {
+    "generalInfo": "General info",
     "aboutPerson": {
       "name": "Douglas Ramírez",
       "profession": "Software Engineer",

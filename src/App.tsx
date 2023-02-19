@@ -47,7 +47,7 @@ function App() {
       <div className={sideBarClasses()} tabIndex={-1} id="sidebar">
         <div className="offcanvas-header">
           <h4 className="offcanvas-title text-info" id="offcanvasLabel">
-            Información general
+            {t("generalInfo")}
           </h4>
           <button
             className="btn btn-link"
